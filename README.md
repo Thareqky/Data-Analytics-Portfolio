@@ -1,2 +1,4 @@
 # Data-Analytics-Portfolio
-A compilation of project related to Analytics
+Halo! Welcome to Muhammad Thareqky's Data Analytics Portfolio Repository. Please kindly check it out!
+
+## Understanding Business Problem
