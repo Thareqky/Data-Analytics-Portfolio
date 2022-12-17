@@ -42,3 +42,6 @@ Skill:
 ### Example:
 1. [Create a query to get the number of unique users, number of orders, total sales price per status and month](https://console.cloud.google.com/bigquery?sq=520072289787:5fbc6eb9340a436bb5121a7ef3ac2a26)
 2. [Create a query to get frequencies, AOV, and total number of unique users where satus is complete; grouped by month](https://console.cloud.google.com/bigquery?sq=520072289787:bd3d07a44410439881fdc272a24c48e2)
+3. [Find he user id, email, first and last name of user whose status is refunded on Aug 22](https://console.cloud.google.com/bigquery?sq=520072289787:a7914bff3b974124a602f321c56ae375)
+4. [Get the all time top 5 least and most profitable product](https://console.cloud.google.com/bigquery?sq=520072289787:2252880d67bc4bd3af4124754a055beb)
+5. [Create a query to get month to date of total profit in each product categories of past 3 months, breakdown by month and categories](https://console.cloud.google.com/bigquery?sq=520072289787:d213717d3d5140efba335e08d81f9e38)
