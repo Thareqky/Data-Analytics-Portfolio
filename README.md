@@ -25,7 +25,7 @@ Halo! Welcome to Muhammad Thareqky's Data Analytics Portfolio Repository. Please
 - A/B Testing
 
 ### Example:
-- [Exploration of Kuala Lumpur Property Listing Data](https://docs.google.com/spreadsheets/d/13blaqtoRM4KW5irhsjjeUSqxRxI2m0swcr9XOdrmrxQ/edit?usp=sharing)
+- [Exploration of Kuala Lumpur Property Listing Data in Google Sheets](https://docs.google.com/spreadsheets/d/13blaqtoRM4KW5irhsjjeUSqxRxI2m0swcr9XOdrmrxQ/edit?usp=sharing)
 
 ## SQL
 ###Skill:
