@@ -2,7 +2,7 @@
 Halo! Welcome to Muhammad Thareqky's Data Analytics Portfolio Repository. Please kindly check it out!
 
 ## Understanding Business Problem
-Skill:
+###Skill:
 - Defining DARCI
 - Ask SMART Questions
 - Using RCA tools such as 5 Whys, Issue Tree, Fishbone and Pareto Chart
@@ -12,7 +12,7 @@ Skill:
 2. [Maven Toys Sales Pitching Deck](https://drive.google.com/drive/folders/163G7sSS0zkRKS6Ow1SunoUvTXQ-lkmG5)
 
 ## Spreadsheet and Statistics
-Skill:
+###Skill:
 - Data Cleaning
 - Query Table
 - Pivot Table
@@ -28,7 +28,7 @@ Skill:
 - [Exploration of Kuala Lumpur Property Listing Data](https://docs.google.com/spreadsheets/d/13blaqtoRM4KW5irhsjjeUSqxRxI2m0swcr9XOdrmrxQ/edit?usp=sharing)
 
 ## SQL
-Skill:
+###Skill:
 - Standard Query Syntax
 - Data Cleaning in SQL
 - SQL Aggregate Functions
