@@ -64,7 +64,7 @@ Halo! Welcome to Thareqky's Data Analytics Portfolio Repository. Please kindly c
 
 ## Data Visualization using Tableau
 ### Skill:
-- Connect multiple datasets and using relationship/join between table
+- Connect multiple datasets using relationship/join between table
 - Data formatting
 - EDV
 - Calculated field
