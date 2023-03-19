@@ -61,6 +61,7 @@ Halo! Welcome to Thareqky's Data Analytics Portfolio Repository. Please kindly c
 1. [EDA and Clustering Analysis on Mutual Funds Transaction Data for RevoU Individual Assignment](https://colab.research.google.com/drive/16-AEIhU9eS42Vb8vMV6lYivoRX_0oYYO?usp=sharing)
 2. [Data Cleaning on Maven Toys Sales Dataset](https://colab.research.google.com/drive/1YqhsWowx_iG8JIi12AxzewYhWLRHfy4R?usp=sharing)
 3. [EDA and Forecasting on Maven Toys Sales Dataset](https://colab.research.google.com/drive/1ocXIj2yvNRJVuSKoboW-jlF6UytlCd1P?usp=sharing)
+4. [Customer Segmentation using KMedoids Clustering](https://colab.research.google.com/drive/1OmaHJNcJeiAvTDCx9Hmjq8O1E07zaFWg#scrollTo=EzKK_dpqTuH6)
 
 ## Data Visualization using Tableau
 ### Skill:
@@ -73,6 +74,7 @@ Halo! Welcome to Thareqky's Data Analytics Portfolio Repository. Please kindly c
 ### Dashboard Example:
 1. [Airbnb Singapore Listing Overview](https://public.tableau.com/app/profile/muhammad.thareqky/viz/AirbnbSingaporeListingDashboard_16710897077600/AirbnbDashboard)
 2. [Maven Toy Store Analytical Dashboard](https://public.tableau.com/app/profile/muhammad.thareqky/viz/ToyStoreAnalyticalDashboard/AnalyticalDashboard)
+3. [PeopleU Sales Performance Dashboard](https://public.tableau.com/app/profile/muhammad.thareqky/viz/PeopleUSalesManagerDashboard/SalesPerformanceDashboard)
 
 ## Project Done
 1. [Maven Toys Sales Analysis](https://drive.google.com/drive/folders/163G7sSS0zkRKS6Ow1SunoUvTXQ-lkmG5)
